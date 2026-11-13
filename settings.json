@@ -7,10 +7,8 @@
   },
   "server": {
     "ip": "BlueReaperMC.aternos.me
-
 ",
-    "port": 42734
-,
+    "port": 42734,
     "version": "",
     "try-creative": false
   },
